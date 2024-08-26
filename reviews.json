@@ -1,0 +1,125 @@
+{
+  "reviews": [
+    {
+      "professor": "Dr. Emily Richards",
+      "subject": "Biology",
+      "stars": 5,
+      "review": "Dr. Richards is amazing! Her lectures are clear and she is very approachable."
+    },
+    {
+      "professor": "Dr. John Anderson",
+      "subject": "Physics",
+      "stars": 4,
+      "review": "Great professor, but his exams are tough. Study hard!"
+    },
+    {
+      "professor": "Dr. Lisa Wong",
+      "subject": "Chemistry",
+      "stars": 3,
+      "review": "She knows her stuff, but the lectures can be a bit dry."
+    },
+    {
+      "professor": "Dr. Michael Thompson",
+      "subject": "Mathematics",
+      "stars": 5,
+      "review": "Excellent teacher! Makes complex topics easy to understand."
+    },
+    {
+      "professor": "Dr. Sarah Johnson",
+      "subject": "Literature",
+      "stars": 4,
+      "review": "Passionate about literature, but grading can be harsh."
+    },
+    {
+      "professor": "Dr. Robert Lewis",
+      "subject": "History",
+      "stars": 3,
+      "review": "His lectures are interesting, but he's not very responsive to emails."
+    },
+    {
+      "professor": "Dr. Rachel Evans",
+      "subject": "Economics",
+      "stars": 5,
+      "review": "Dr. Evans is brilliant! Her classes are engaging and informative."
+    },
+    {
+      "professor": "Dr. Kevin Martinez",
+      "subject": "Computer Science",
+      "stars": 4,
+      "review": "Very knowledgeable, but sometimes hard to follow in class."
+    },
+    {
+      "professor": "Dr. Laura Green",
+      "subject": "Psychology",
+      "stars": 5,
+      "review": "One of the best professors I've had! Always willing to help students."
+    },
+    {
+      "professor": "Dr. David Brown",
+      "subject": "Sociology",
+      "stars": 3,
+      "review": "The class is okay, but the workload is heavy."
+    },
+    {
+      "professor": "Dr. Jessica Davis",
+      "subject": "Philosophy",
+      "stars": 4,
+      "review": "Her lectures are thought-provoking, but assignments are challenging."
+    },
+    {
+      "professor": "Dr. Steven Miller",
+      "subject": "Engineering",
+      "stars": 5,
+      "review": "Great professor! He explains concepts clearly and is very helpful."
+    },
+    {
+      "professor": "Dr. Angela Wilson",
+      "subject": "Art History",
+      "stars": 4,
+      "review": "Her classes are interesting, but there's a lot of reading."
+    },
+    {
+      "professor": "Dr. Matthew Clark",
+      "subject": "Political Science",
+      "stars": 3,
+      "review": "He knows his material, but his lectures can be boring."
+    },
+    {
+      "professor": "Dr. Rebecca Scott",
+      "subject": "Environmental Science",
+      "stars": 5,
+      "review": "Dr. Scott is fantastic! Very passionate about the subject."
+    },
+    {
+      "professor": "Dr. Brian King",
+      "subject": "Anthropology",
+      "stars": 4,
+      "review": "His lectures are informative, but the exams are difficult."
+    },
+    {
+      "professor": "Dr. Megan Taylor",
+      "subject": "Business Administration",
+      "stars": 3,
+      "review": "The course is useful, but Dr. Taylor can be a bit unorganized."
+    },
+    {
+      "professor": "Dr. James White",
+      "subject": "Law",
+      "stars": 4,
+      "review": "He is very knowledgeable, but the class can be tough."
+    },
+    {
+      "professor": "Dr. Amanda Roberts",
+      "subject": "Music Theory",
+      "stars": 5,
+      "review": "Amazing professor! Her passion for music is contagious."
+    },
+    {
+      "professor": "Dr. William Harris",
+      "subject": "Statistics",
+      "stars": 3,
+      "review": "His teaching is fine, but the homework assignments are very time-consuming."
+    }
+  ]
+}
+
